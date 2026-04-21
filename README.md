@@ -1,16 +1,15 @@
-## Hi there 👋
+# I'm Awesome Max!
 
-<!--
-**MaxNatzke/MaxNatzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Learning
+* Python development
+* Github skills
+* Game development
+* Animation
 
-Here are some ideas to get you started:
+## Certificates I've earned
+* YouScience Python Fundamentals 1
+* YouScience Python Fundamentals 2
+* Soon CS50P with Harvard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+* [Zenith](https://github.com/MaxNatze/Zenith)
