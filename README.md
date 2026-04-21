@@ -12,4 +12,4 @@
 * Soon CS50P with Harvard
 
 ## My projects
-* [Zenith](https://github.com/MaxNatze/Zenith)
+* [Zenith](https://github.com/MaxNatzke/Zenith)
